@@ -66,6 +66,7 @@ BootStrap 3 classes in HTML markup in Drupal 8 Custom Block
 
 Careful to use the BS major version you have installed in the in the Drupal installation, as there are some 
 breaking changes I’ve noticed. i.e.; BS3’s “img-responsive” class is changed in BS4 to be “img-fluid“. (https://getbootstrap.com/docs/3.4/css/#images) (https://getbootstrap.com/docs/4.0/content/images/)
+(10)
 
 Responsive Results
 Here is an example of how the page started to look after employing Bootstrap classes that allowed for more graceful responsiveness on mobile viewports.
